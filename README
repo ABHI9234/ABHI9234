@@ -1,11 +1,11 @@
-## Hi 👋, I'm Venkata Abhinav Tadiparthi
+# Hi 👋, I'm Venkata Abhinav Tadiparthi
 
-B.Tech IT @ NIT Raipur (2023–2027)  
+**B.Tech IT @ NIT Raipur (2023–2027)**  
 AI/ML • Systems • Applied Deep Learning  
 
 ---
 
-### 🚀 About Me
+## 🚀 About Me
 - Information Technology undergraduate at **NIT Raipur**
 - Interested in **AI/ML systems, applied deep learning, and AI-powered applications**
 - Strong background in **Data Structures and Algorithms**
@@ -13,37 +13,52 @@ AI/ML • Systems • Applied Deep Learning
 
 ---
 
-### 🧠 Technical Skills
+## 🧠 Technical Skills
 
-**Languages**  
-C/C++, Python, Java  
+### Languages
+- C/C++
+- Python
+- Java
 
-**Machine Learning & Data**  
-PyTorch, scikit-learn, NumPy, Pandas, NLP, Computer Vision  
+### Machine Learning & Data
+- PyTorch
+- scikit-learn
+- NumPy
+- Pandas
+- NLP
+- Computer Vision
 
-**Backend & APIs**  
-FastAPI  
+### Backend & APIs
+- FastAPI
 
-**Tools & Platforms**  
-Git, GitHub, Docker, VS Code  
+### Tools & Platforms
+- Git
+- GitHub
+- Docker
+- VS Code
 
-**Core CS Subjects**  
-OOPS, DBMS, Operating Systems, Computer Networks (CN), SQL  
+### Core CS Subjects
+- OOPS
+- DBMS
+- Operating Systems
+- Computer Networks (CN)
+- SQL
 
-**Operating Systems**  
-Linux, Windows  
+### Operating Systems
+- Linux
+- Windows
 
 ---
 
-### 📌 Selected Projects
+## 📌 Selected Projects
 - **VOXQuery** – Voice-enabled document Q&A system using RAG and fine-tuned transformers  
 - **Drishtikon** – Assistive AI system for visually impaired individuals  
 - **Image Style Transfer** – CNN-based style transfer with federated learning  
 
-(See pinned repositories below 👇)
+_(See pinned repositories below 👇)_
 
 ---
 
-### 📫 Contact
-📧 venkataabhinavtadiparthi@gmail.com  
+## 📫 Contact
+📧 **venkataabhinavtadiparthi@gmail.com**  
 🔗 LinkedIn | GitHub
