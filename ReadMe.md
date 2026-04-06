@@ -1,8 +1,8 @@
 <div align="center">
   <h1>Hey there 👋, I'm Venkata Abhinav Tadiparthi</h1>
   <p>
-    🎓 Passionate Developer | Problem Solver | Tech Enthusiast <br/>
-    💻 AI/ML Enthusiast <br/>
+    🎓 B.Tech in Information Technology @ NIT Raipur <br/>
+    💻 AI/ML Enthusiast | Passionate Developer | Problem Solver | Tech Enthusiast <br/> <br/>
     🚀 Inquisitive Learner | Passionate about building scalable systems & real-world solutions
   </p>
 </div>
