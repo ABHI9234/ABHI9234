@@ -2,7 +2,7 @@
   <h1>Hey there 👋, I'm Venkata Abhinav Tadiparthi</h1>
   <p>
     🎓 Passionate Developer | Problem Solver | Tech Enthusiast <br/>
-    💻 Backend Developer | Competitive Programmer | ML Enthusiast <br/>
+    💻 AI/ML Enthusiast <br/>
     🚀 Inquisitive Learner | Passionate about building scalable systems & real-world solutions
   </p>
 </div>
