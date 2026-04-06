@@ -2,7 +2,7 @@
   <h1>Hey there 👋, I'm Venkata Abhinav Tadiparthi</h1>
   <p>
     🎓 B.Tech in Information Technology @ NIT Raipur <br/>
-    💻 AI/ML Enthusiast | Passionate Developer | Problem Solver | Tech Enthusiast <br/> <br/>
+    💻 AI/ML Enthusiast | Passionate Developer | Problem Solver | Tech Enthusiast <br/>
     🚀 Inquisitive Learner | Passionate about building scalable systems & real-world solutions
   </p>
 </div>
